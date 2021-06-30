@@ -1,3 +1,3 @@
 # Mini-projeto-Signos-e-Entre-telas
-Brenda Moura
+Brenda Moura<br>
 Android Studio - Java
